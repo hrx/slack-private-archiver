@@ -1,0 +1,264 @@
+[
+    {
+        "user": "U28KXQEKS",
+        "text": "<@U28KXQEKS|juliusbuckleyhr44> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473172214.000080",
+        "reactions": [
+            {
+                "name": "parrot",
+                "users": [
+                    "U1SH6B5CP",
+                    "U1VBQ2859",
+                    "U280M7U1Y",
+                    "U27UB8HP0",
+                    "U1CJXFU2D"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U04S2FCBG",
+        "text": "Anyone headed to Portland this week for XOXO?",
+        "ts": "1473174600.000081"
+    },
+    {
+        "user": "U28LZEAKG",
+        "text": "<@U28LZEAKG|kylelinhardt> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473176652.000082"
+    },
+    {
+        "type": "message",
+        "user": "U0368A7ED",
+        "text": "For those watching the Apple keynote tomorrow: <https:\/\/jonsadka.github.io\/apple-keynote-bingo\/>",
+        "attachments": [
+            {
+                "title": "Apple Keynote Bingo!",
+                "title_link": "https:\/\/jonsadka.github.io\/apple-keynote-bingo\/",
+                "text": "Apple Keynote Bingo! - September 7, 2016 by Jon Sadka",
+                "fallback": "Apple Keynote Bingo!",
+                "from_url": "https:\/\/jonsadka.github.io\/apple-keynote-bingo\/",
+                "service_name": "jonsadka.github.io",
+                "id": 1
+            }
+        ],
+        "ts": "1473176826.000083",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U0J4HRVFC",
+                    "U1SGXHTLN",
+                    "U03SV5RRB",
+                    "U035ZG2JD",
+                    "U042Z78GT"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U28MHQ8S2",
+        "text": "<@U28MHQ8S2|jmg2107> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473178946.000085"
+    },
+    {
+        "user": "U28P0JWQN",
+        "text": "<@U28P0JWQN|tabithablagdon_hr45> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473185701.000086"
+    },
+    {
+        "user": "U28PA2AGM",
+        "text": "<@U28PA2AGM|jchiou> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473186040.000087"
+    },
+    {
+        "type": "message",
+        "user": "U036EHEPU",
+        "text": "anyone know if the Maker square NY campus has started classes?",
+        "edited": {
+            "user": "U036EHEPU",
+            "ts": "1473190241.000000"
+        },
+        "ts": "1473190238.000088"
+    },
+    {
+        "type": "message",
+        "user": "U0365ERLN",
+        "text": "<@U036EHEPU> yep - and they've already graduated their first cohort",
+        "ts": "1473195469.000090",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U036EHEPU",
+                    "U03BYNNDE",
+                    "U0364LH95",
+                    "U087QAETU"
+                ],
+                "count": 4
+            },
+            {
+                "name": "mortar_board",
+                "users": [
+                    "U03BYNNDE",
+                    "U036EHEPU",
+                    "U087QAETU",
+                    "U1SH49QSY"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U036EHEPU",
+        "text": "<@U0365ERLN> awesome, ty!",
+        "ts": "1473195979.000091"
+    },
+    {
+        "type": "message",
+        "user": "U0365ERLN",
+        "text": "\/giphy no problem",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/reaction-8JxhhhQfBvEe4>",
+                "image_url": "http:\/\/media.giphy.com\/media\/8JxhhhQfBvEe4\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 139,
+                "image_bytes": 948007,
+                "is_animated": true,
+                "title": "no problem",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/reaction-8JxhhhQfBvEe4"
+            }
+        ],
+        "ts": "1473196004.000092"
+    },
+    {
+        "user": "U28RYQ604",
+        "text": "<@U28RYQ604|hien_tran_hr44> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473201632.000093"
+    },
+    {
+        "type": "message",
+        "user": "U03G31AV6",
+        "text": "Does anyone have know anything about The Iron Yard or anyone who's gone through the program?",
+        "ts": "1473203676.000094"
+    },
+    {
+        "type": "message",
+        "user": "U0EK8TZMX",
+        "text": "I\u2019ve met some instructors at their location here in Austin. I\u2019d say it\u2019s a good program, better than GA, for instance.\n\nYou have to pick either front or back end, and the latter is in Ruby, last I looked. My take would be it could be good for someone looking to be just a front-end engineer.",
+        "ts": "1473203896.000095"
+    },
+    {
+        "type": "message",
+        "user": "U1SQNU3LN",
+        "text": "<@U1SS6V5BK> did it i think",
+        "ts": "1473204101.000096"
+    },
+    {
+        "type": "message",
+        "user": "U0365UXTR",
+        "text": "<@U03G31AV6>: someone at our sister company went through it - nice guy, good amount of curiosity but I was definitely left with the impression that they didn't cover much (front end) js wise so it has taken him a long time to get up to speed imho",
+        "ts": "1473205831.000097"
+    },
+    {
+        "type": "message",
+        "user": "U0EK8TZMX",
+        "text": "<@U0365UXTR> Do you know if he was in their backend or frontend course? I have a feeling they don\u2019t cover the other side much.",
+        "ts": "1473205997.000098"
+    },
+    {
+        "type": "message",
+        "user": "U0365UXTR",
+        "text": "Front end",
+        "ts": "1473206026.000099"
+    },
+    {
+        "type": "message",
+        "user": "U0EK8TZMX",
+        "text": "Wow. That\u2019s too bad.",
+        "ts": "1473206072.000100"
+    },
+    {
+        "type": "message",
+        "user": "U0365UXTR",
+        "text": "Which btw there was no exposure to node (which I know is backend but still useful to have some exposure since a lot of js client side devs will rely on a small node server)",
+        "ts": "1473206081.000101"
+    },
+    {
+        "type": "message",
+        "user": "U0365UXTR",
+        "text": "The thing obviously to remember is that this is one individual's experience as well - so ymmv",
+        "ts": "1473207506.000102"
+    },
+    {
+        "type": "message",
+        "user": "U0EK8TZMX",
+        "text": "True. My take is, any school can get you in the door\u2026if you have sufficient motivation. HR just makes it where you don\u2019t have a choice but to be that motivated!",
+        "ts": "1473207628.000103"
+    },
+    {
+        "type": "message",
+        "user": "U042UGHUY",
+        "text": "one of my friends is about to start his precourse work at <http:\/\/sabio.la\/>",
+        "attachments": [
+            {
+                "service_name": "Sabio - Learn to code",
+                "title": "Learn To Code and Change the World",
+                "title_link": "http:\/\/sabio.la\/",
+                "text": "Accelerate your career. Learn how to build and launch your own apps. Full Stack. Join our community",
+                "fallback": "Sabio - Learn to code: Learn To Code and Change the World",
+                "thumb_url": "http:\/\/sabio.la\/images\/Code_Change_World.png",
+                "from_url": "http:\/\/sabio.la\/",
+                "thumb_width": 800,
+                "thumb_height": 320,
+                "service_icon": "http:\/\/sabio.la\/images\/sab\/fav.png",
+                "id": 1
+            }
+        ],
+        "ts": "1473210591.000104"
+    },
+    {
+        "type": "message",
+        "user": "U042UGHUY",
+        "text": "i am excited to see what kind of stuff they teach and what the culture is like",
+        "ts": "1473210603.000106"
+    },
+    {
+        "user": "U28TQGF7E",
+        "text": "<@U28TQGF7E|hewp> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473218321.000107"
+    },
+    {
+        "user": "U28UBJQ76",
+        "text": "<@U28UBJQ76|billylanhr44> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473226527.000108"
+    },
+    {
+        "user": "U28US7U85",
+        "text": "<@U28US7U85|jchong> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473228395.000109"
+    }
+]
