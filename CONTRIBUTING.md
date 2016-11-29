@@ -1,7 +1,5 @@
 # GIT workflow
 
-One-click solution for personalized results.
-
 ## Steps
 * Each dev forks & clones Master repo.
 * Any new features should be on it's own branch w/ the following naming convention:
