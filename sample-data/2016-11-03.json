@@ -1,0 +1,53 @@
+[
+    {
+        "type": "message",
+        "user": "U0J2G93CG",
+        "text": "Question:  At work, our services team gave us a &lt;host&gt;\/manifest endpoint.  What is a manifest (in backend-end \/ services context)?  It just gives a json response with configuration, gitRevision, dependencies and version",
+        "ts": "1478193541.000196"
+    },
+    {
+        "type": "message",
+        "user": "U0J2G93CG",
+        "text": "what is it used for?",
+        "ts": "1478193554.000197"
+    },
+    {
+        "type": "message",
+        "user": "U0J2XJX40",
+        "text": "It should just be metadata used for debugging\/identifying servers and content. ",
+        "ts": "1478196579.000198"
+    },
+    {
+        "type": "message",
+        "user": "U0J2XJX40",
+        "text": "I'd imagine having version\/dep\/config issues would be useful for testing in dev\/prod and also checking compatibility if there are any bugs to track or changes ",
+        "ts": "1478196640.000199"
+    },
+    {
+        "type": "message",
+        "user": "U0J2G93CG",
+        "text": "thanks",
+        "ts": "1478199094.000200"
+    },
+    {
+        "user": "U2XAF03R6",
+        "text": "<@U2XAF03R6|ericso> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478216909.000201"
+    },
+    {
+        "user": "U2Y1VFY74",
+        "text": "<@U2Y1VFY74|hwahby> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478217394.000202"
+    },
+    {
+        "user": "U2YNU36TG",
+        "text": "<@U2YNU36TG|pmsandhu> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478218946.000203"
+    }
+]
